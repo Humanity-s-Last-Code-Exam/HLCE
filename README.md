@@ -32,6 +32,11 @@ Code generation is a core capability of large language models (LLMs), yet mainst
 <br>
 
 
+## Why Do We Need HLCE?
+
+With the increasing capabilities of LLMs, many benchmarks have become too easy!
+
+![HLCE vs other benchmarks](pictures/performance.png)
 
 
 
