@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">MMDocRAG: Benchmarking Retrieval-Augmented Multimomal Generation for Document Question Answering</h2>
+  <h2 align="center">Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?</h2>
     <p align="center">
     <a href="https://archersama.github.io/"><strong>Xiangyang Li</strong></a>
     ·
