@@ -24,7 +24,7 @@
 </p>
 <p align="left">
   <p>
-Code generation is a core capability of large language models (LLMs), yet mainstream benchmarks (e.g., APPs and LiveCodeBench) contain questions with medium-level difficulty and pose no challenge to advanced LLMs. To better reflect advanced reasoning and code generation ability, we introduce Humanity's Last Code Exam (HLCE), comprising 235 of the most challenging problems from the International Collegiate Programming Contest (ICPC World Finals) and the International Olympiad in Informatics (IOI) spanning 2010-2024.
+Code generation is a core capability of large language models (LLMs), yet mainstream benchmarks (e.g., APPs and LiveCodeBench) contain questions with medium-level difficulty and pose no challenge to advanced LLMs. To better reflect advanced reasoning and code generation ability, we introduce Humanity's Last Code Exam (HLCE), comprising 235 of the most challenging problems from the **International Collegiate Programming Contest (ICPC World Finals)** and the International **Olympiad in Informatics (IOI)** spanning 2010-2024.
   </p>
   <a href="">
     <img src="pictures/hlce_cover.png" alt="Logo" width="100%">
@@ -42,9 +42,8 @@ With the increasing capabilities of LLMs, many benchmarks have become too easy!
 
 ## 🛠️Dataset Usage
 
-- 去哪里download dataset
+- You can peruse and download our dataset via this link: https://huggingface.co/HumanLastCodeExam
 
-- 如何处理数据blabla
 
 
 
@@ -52,12 +51,13 @@ With the increasing capabilities of LLMs, many benchmarks have become too easy!
 
 ## 🔮Dataset Evaluation
 
-- 对于IOI，请依照这个指令来得到最终的评测结果
+- For IOI, kindly follow these [instructions](https://github.com/Humanity-s-Last-Code-Exam/HLCE/tree/main/HLCE/IOI_scripts) to obtain the definitive evaluation results.
 
-- 对于ICPC-World-Finals，请依照这个指令来得到最终的结果
+- For ICPC-World-Finals,kindly follow these [instructions](https://github.com/Humanity-s-Last-Code-Exam/HLCE/tree/main/HLCE/ICPC-World-Finals_script) to obtain the definitive evaluation results.
 
 
-
+## 📊 Leaderboard
+- If you wish to submit your model to the leaderboard, please follow the [instructions](https://github.com/Humanity-s-Last-Code-Exam/results).
 
 ## 💾Citation
 ```
