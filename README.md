@@ -7,7 +7,7 @@
     ·
     <strong>Kuicai Dong</strong>
     ·
-    <strong>Zhangquan Hu</strong>  
+    <strong>Quanhu Zhang</strong>  
     ·
     <strong>Rongju Ruan</strong>
     ·
