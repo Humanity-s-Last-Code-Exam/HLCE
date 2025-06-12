@@ -8,7 +8,7 @@
     <strong>Kuicai Dong</strong>
     ·
     <strong>Quanhu Zhang</strong>  
-    ·
+    <br>
     <strong>Rongju Ruan</strong>
     ·
     <strong>Xinyi Dai</strong>
