@@ -18,7 +18,7 @@
     <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=en"><strong>Ruiming Tang</strong></a>
 <p align="center">
     📖<a href="https://arxiv.org/abs/2506.12713">Paper</a> |
-    🏠<a href="https://humanity-s-last-code-exam.github.io/website/">Homepage</a> |
+    🏠<a href="https://humanity-s-last-code-exam.github.io/website/">Homepage&Leaderboard</a> |
     🤗<a href="https://huggingface.co/HumanLastCodeExam">Huggingface</a> |
 	👉<a href="https://github.com/Humanity-s-Last-Code-Exam/HLCE">Github</a>
 </p>
