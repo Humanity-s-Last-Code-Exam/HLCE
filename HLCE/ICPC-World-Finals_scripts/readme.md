@@ -5,12 +5,25 @@ This guide provides instructions on how to evaluate the performance of a languag
 
 ## 1. Generate LLM Responses
 
-To start, use the prompts provided in the problem files to generate responses from your language model. Particularly, arrange the outputs in the following format.
+To start, use the prompts provided in the problem files to generate responses from your language model. Particularly, arrange the outputs in the following format. An example is in the examples/icpc_filter_merge.json file, with the required fields structured as follows:
 ```
 [
-    {"question_id": "id1", "code_list": ["code1", "code2"]},
-    {"question_id": "id2", "code_list": ["code1", "code2"]}
+    {
+        "question_title": "xxx",
+        "platform": "xxx",
+        "question_id": "xxx",
+        "question_content": "xxx",
+        "code_list": ["code1", "code2"]
+    },
+    {
+        "question_title": "xxx",
+        "platform": "xxx",
+        "question_id": "xxx",
+        "question_content": "xxxt",
+        "code_list": ["code1", "code2"]
+    }
 ]
+
 ```
 
 ## 2. Evaluation
