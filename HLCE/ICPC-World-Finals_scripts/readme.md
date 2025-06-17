@@ -1,6 +1,6 @@
 # ICPC World Finals Problems Model Evaluation Guide
 
-This guide provides instructions on how to evaluate the performance of a language model on problems from the International Collegiate Programming Contest (ICPC) World Finals.
+This guide provides instructions on how to evaluate the performance of a language model on problems from the International Collegiate Programming Contest (ICPC) World Finals. For the ICPC evaluation, we based our evaluation code on Livecodebench, for which we express our gratitude.
 
 
 ## 1. Generate LLM Responses
