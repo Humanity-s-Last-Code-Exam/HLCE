@@ -12,10 +12,12 @@ This guide provides instructions on how to evaluate the performance of a languag
 ## 1. Generate LLM Responses
 
 To start, use the prompts provided in the problem files to generate responses from your language model. Example response files can be found in `responses_raw/`. Particularly, arrange the outputs in the following format.
+```
 [
     {"question_id": "id1", "code_list": ["code1", "code2"]},
     {"question_id": "id2", "code_list": ["code1", "code2"]}
 ]
+```
 
 ## 2. Evaluation
 
