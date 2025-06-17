@@ -32,7 +32,7 @@ To evaluate the performance, navigate to the LiveCodeBench directory and run the
 - Execute the custom evaluator script:
 
   ```bash
-  python -m lcb_runner.runner.custom_evaluator --custom_output_file your_file.jsonl --timeout 60
+  python -m lcb_runner.runner.custom_evaluator --custom_output_file your_file.json --timeout 60
   ```
 
 - Calculate the scores based on the evaluation results:
