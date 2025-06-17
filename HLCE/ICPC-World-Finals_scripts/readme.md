@@ -5,7 +5,7 @@ This guide provides instructions on how to evaluate the performance of a languag
 
 ## 1. Generate LLM Responses
 
-To start, use the prompts provided in the problem files to generate responses from your language model. Particularly, arrange the outputs in the following format. An example is in the examples/icpc_filter_merge.json file, with the required fields structured as follows:
+To start, use the prompts provided in the [problem files](https://huggingface.co/datasets/HumanLastCodeExam/icpc-world-finals) to generate responses from your language model. Particularly, arrange the outputs in the following format. An example is in the examples/icpc_filter_merge.json file, with the required fields structured as follows:
 ```
 [
     {
