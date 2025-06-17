@@ -5,9 +5,7 @@ This guide provides instructions on how to evaluate the performance of a languag
 ## Table of Contents
 
 - [1. Generate LLM Responses](#1-generate-llm-responses)
-- [2. Usage](#2-usage)
-  - [2.1 Data Preprocessing](#21-data-preprocessing)
-  - [2.2 Evaluation](#22-evaluation)
+- [2. Evaluation]
 
 ## 1. Generate LLM Responses
 
