@@ -46,7 +46,6 @@ With the increasing capabilities of LLMs, many benchmarks have become too easy!
 - You can download dataset via this link: https://huggingface.co/HumanLastCodeExam
 
 ## 🔮Dataset Evaluation
-## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -92,5 +91,6 @@ With the increasing capabilities of LLMs, many benchmarks have become too easy!
 
 ## 📄 License
 
-![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg) ![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg) **Usage and License Notices**: The data and code are intended and licensed for research use only.
-License: Attribution-NonCommercial 4.0 International It should abide by the policy of OpenAI: https://openai.com/policies/terms-of-use
+![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg) ![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg) 
+
+**Usage and License Notices**: The data and code are intended and licensed for research use only.
