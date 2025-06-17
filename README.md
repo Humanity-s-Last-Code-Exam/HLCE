@@ -46,7 +46,25 @@ With the increasing capabilities of LLMs, many benchmarks have become too easy!
 - You can download dataset via this link: https://huggingface.co/HumanLastCodeExam
 
 ## 🔮Dataset Evaluation
+## Installation
 
+### Prerequisites
+- Python 3.8 or higher
+- Git
+
+### Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:Humanity-s-Last-Code-Exam/HLCE.git
+   cd HLCE
+   ```
+
+2. Install the package and its dependencies:
+   ```bash
+   pip install -e .
+   ```
+   
 - For IOI, kindly follow these [instructions](https://github.com/Humanity-s-Last-Code-Exam/HLCE/tree/main/HLCE/IOI_scripts) to obtain the definitive evaluation results.
 
 - For ICPC-World-Finals,kindly follow these [instructions](https://github.com/Humanity-s-Last-Code-Exam/HLCE/tree/main/HLCE/ICPC-World-Finals_script) to obtain the definitive evaluation results.
