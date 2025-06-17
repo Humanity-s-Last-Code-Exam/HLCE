@@ -43,12 +43,7 @@ With the increasing capabilities of LLMs, many benchmarks have become too easy!
 
 ## 🛠️Dataset Usage
 
-- You can peruse and download our dataset via this link: https://huggingface.co/HumanLastCodeExam
-
-
-
-
-
+- You can download dataset via this link: https://huggingface.co/HumanLastCodeExam
 
 ## 🔮Dataset Evaluation
 
