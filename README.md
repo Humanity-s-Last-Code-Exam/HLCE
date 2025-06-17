@@ -17,9 +17,9 @@
     ·
     <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=en"><strong>Ruiming Tang</strong></a>
 <p align="center">
-    📖<a href="https://arxiv.org/abs/xxx">Paper</a> |
+    📖<a href="https://arxiv.org/abs/2506.12713">Paper</a> |
     🏠<a href="https://humanity-s-last-code-exam.github.io/website/">Homepage</a> |
-    🤗<a href="https://huggingface.co/datasets/xxx">Huggingface</a> |
+    🤗<a href="https://huggingface.co/HumanLastCodeExam">Huggingface</a> |
 	👉<a href="https://github.com/Humanity-s-Last-Code-Exam/HLCE">Github</a>
 </p>
 <p align="left">
@@ -62,8 +62,14 @@ With the increasing capabilities of LLMs, many benchmarks have become too easy!
 
 ## 💾Citation
 ```
-@misc{,
-      
+@misc{li2025humanityscodeexamadvanced,
+      title={Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?}, 
+      author={Xiangyang Li and Xiaopeng Li and Kuicai Dong and Quanhu Zhang and Rongju Ruan and Xinyi Dai and Xiaoshuang Liu and Shengchun Xu and Yasheng Wang and Ruiming Tang},
+      year={2025},
+      eprint={2506.12713},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2506.12713}, 
 }
 ```
 
