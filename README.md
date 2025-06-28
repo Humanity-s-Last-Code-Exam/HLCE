@@ -66,7 +66,7 @@ With the increasing capabilities of LLMs, many benchmarks have become too easy!
    
 - For IOI, kindly follow these [instructions](https://github.com/Humanity-s-Last-Code-Exam/HLCE/tree/main/HLCE/IOI_scripts) to obtain the definitive evaluation results.
 
-- For ICPC-World-Finals,kindly follow these [instructions](https://github.com/Humanity-s-Last-Code-Exam/HLCE/tree/main/HLCE/ICPC-World-Finals_script) to obtain the definitive evaluation results.
+- For ICPC-World-Finals,kindly follow these [instructions](https://github.com/Humanity-s-Last-Code-Exam/HLCE/tree/main/HLCE/ICPC-World-Finals_scripts) to obtain the definitive evaluation results.
 
 
 ## 📊 Leaderboard
