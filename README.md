@@ -41,6 +41,12 @@ With the increasing capabilities of LLMs, many benchmarks have become too easy!
 
 
 
+# News
+
+**August 21, 2025** 🎉Congratulations on our paper **HLCE** being accepted by **EMNLP 2025**.
+
+
+
 ## 🛠️Dataset Usage
 
 - You can download dataset via this link: https://huggingface.co/HumanLastCodeExam
